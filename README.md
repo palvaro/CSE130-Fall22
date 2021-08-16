@@ -1,18 +1,15 @@
-# CMPS130 Spring 2020
+# CMPS130 Fall 2021
 ## Principles of Computer System Design
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at <b>1:20 PM</b>. |
-|Where: | Zoom Room: CHECK PIAZZA (for now -- remember to check back) |
+|When: | Monday, Wednesday and Friday at <i>GASP</i><b>8 AM</b>, unless we decide to move it. |
+|Where: | Zoom Room: TBD |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office (half-)hours: | Mondays @ 10AM |
-||               Tuesdays @ 1PM |
-||               Thursdays @ 11:30AM|
-||               Fridays @ 10AM|
+|Office (half-)hours: TBD
 |Office hours location:| Discord OH chat room, to start|
 |Prerequisites: | CMPE 12 and either CMPE 13 or CMPS 12B; knowledge of C programming language. |
 |Required Text: | Principles of Computer System Design, Saltzer & Kaashoek (ISBN 0123749573)|
-|TA: | Allen Aboytes, Daniel Alves, Kenneth Chang, Clark Hilbert|
+|TA: | TBD|
 
 
 # Course Overview
