@@ -2,7 +2,7 @@
 ## Principles of Computer System Design
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at <i>GASP</i><b>8 AM</b>, unless we decide to move it. |
+|When: | Monday, Wednesday and Friday at <i>*GASP*</i> <b>8 AM</b>, unless we decide to move it. |
 |Where: | Zoom Room: TBD |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office (half-)hours: TBD
