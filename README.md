@@ -9,6 +9,7 @@
 |Office hours location:| Discord OH chat room, to start|
 |Prerequisites: | CMPE 12 and either CMPE 13 or CMPS 12B; knowledge of C programming language. |
 |Required Text: | Principles of Computer System Design, Saltzer & Kaashoek (ISBN 0123749573)|
+||Free online text (when signed in) available here: https://www.oreilly.com/library/view/principles-of-computer/9780123749574/ |
 |TA: | TBD|
 
 
