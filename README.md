@@ -5,8 +5,7 @@
 |When: | Tuesday and Thursday at <i>*GASP*</i> <b>8 AM</b>, unless we decide to move it. |
 |Where: | Zoom Room: TBD |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office (half-)hours: TBD
-|Office hours location:|TBD|
+|Office (half-)hours: Monday @10AM (remote), Wednesday @1:30PM (my office), Friday @9:30AM (remote), Friday @2:30PM (remote)
 |Prerequisites: | CMPE 12 and either CMPE 13 or CMPS 12B; knowledge of C programming language. |
 |Required Text: | Principles of Computer System Design, Saltzer & Kaashoek (ISBN 0123749573)|
 ||Free online text (when signed in) available here: https://www.oreilly.com/library/view/principles-of-computer/9780123749574/ |
