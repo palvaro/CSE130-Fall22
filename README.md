@@ -52,13 +52,7 @@ I should not need to say so, but I do: plagiarism in any form is not acceptable 
 
 ## Exams
 
-  
-
-Needless to say, exams are going to look different as a consequence of remote instruction!  But they are an essential part of how we measure whether you are learning the material and it is on me to figure out the best workaround.  As of now, my expectation is that we will hold timed (but obviously online) exams at scheduled times, as dicussed below.  I am not certain yet whether we will host them on Canvas or via some other service.
-
-It will be challenging to balance respecting your privacy and guarding against academic dishonesty. Nevertheless, I pledge to respect your privacy and I ask that in return you promise to comply with the rules. I will ask each of you to sign a statement at the end of each exam stating that you did not collaborate with others or use prohibited resources while taking the exam.
-
-There will be an in-class midterm (currently scheduled for October 28), and a final exam during the scheduled slot during exam week. You must take each exam at the scheduled time unless you are ill or have an unexpected family emergency (and have a note from a doctor, etc.)
+There will be two in-class midterms, and a final exam during the scheduled slot during exam week. You must take each exam at the scheduled time unless you are ill or have an unexpected family emergency (and have a note from a doctor, etc.)
 
 ## Programming assignments
 
@@ -70,8 +64,6 @@ Rather than approve extensions on a case-by-case basis, we’re giving each stud
 
 You must turn in each assignment to pass the class. Assignment submission is done via a git repository on GitLab@UCSC and commit ID that passes the minimum standards (indicated by a green checkmark on the GitLab@UCSC GUI). In particular, your code files must successfully compile, even if your program does nothing more than print “Hello World!”, and you must have a reasonable attempt at a design document. (Note that printing “Hello World!” won’t get you many points towards correct functionality....)
 
-IMPORTANT: If a commit ID you submit for grading doesn’t meet the minimum requirements, as indicated by a green checkmark on the GitLab@UCSC GUI, you will get a maximum score of 5 points on the assignment. VERIFY THE CHECKMARK BEFORE SUBMITTING YOUR COMMIT ID FOR GRADING!!!!
-
 To encourage you to start early and turn your material in early, assignments will get a 1 point bonus per (full) 8 hours they’re submitted early, up to a maximum bonus of 9 points. So, if you turn in your assignment 20 hours before it’s due, you get 2 points added to your grade. The bonus can’t raise your base grade (before extra credit) above 95, and is unavailable if you’re using grace days for the assignment.
 
 ## Written Homework
@@ -82,8 +74,8 @@ There will be a few (required) written homeworks during the quarter. They will b
 
 Grades in the class will be assigned as follows:
  * Assignments (programming & written): 50% (not weighted equally by assignment)
- * Midterm: 16%
- * Final: 34%
+ * Midterms: 20%
+ * Final: 30%
  
 # Attendance
 
