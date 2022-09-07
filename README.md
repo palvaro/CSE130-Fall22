@@ -29,7 +29,6 @@ Students will also gain experience implementing computer systems code. This expe
  * Synchronization & concurrency: usage examples
  * Approaches to naming in computer systems
  * Measuring and evaluating computer system performance
- * Security in computer systems: issues & mitigation
 
 Where possible and appropriate, we will use examples from a wide range of modern complex computer systems to illustrate concepts covered in class.
 
