@@ -12,7 +12,7 @@
 |TAs: | Engin Tekin |
 || Brian Zhao  |
 || Tamir Melzer-Bronstein |
-|Sections: | see my.ucsc |
+|Sections: | see my.ucsc.edu |
 |Class Calendar| [Calendar](https://docs.google.com/spreadsheets/d/1iBbZrnwxDX2nFTUHRmAVl9A7tYhxtQIgt-t-1jlepoc/edit?usp=sharing)|
 
 
