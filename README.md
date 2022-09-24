@@ -12,7 +12,13 @@
 |TAs: | Engin Tekin |
 || Brian Zhao  |
 || Tamir Melzer-Bronstein |
-|Sections: | see my.ucsc.edu |
+|<b>Sections</b>: |  |
+|Monday | Tamir 4:00-5:05pm @ E2 192|
+|Tuesday | Brian 7:10-8:15pm @ Porter 144|
+|Wednesday | Tamir 5:20-6:25pm @ Physical Sciences 110|
+|Thursday | 8:30-9:35am @ Zoom|
+|Thursday | 4-5pm @ Room TBD|
+|Friday | Engin 10:40-11:45AM @ Physical Sciences 114|
 |Class Calendar| [Calendar](https://docs.google.com/spreadsheets/d/1iBbZrnwxDX2nFTUHRmAVl9A7tYhxtQIgt-t-1jlepoc/edit?usp=sharing)|
 
 
