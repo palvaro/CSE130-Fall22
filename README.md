@@ -49,13 +49,8 @@ While we expect you to know the material covered in the prerequisite classes, we
 
 We will use the textbook Principles of Computer System Design. We expect you to read the assigned sections in the book before the lecture in which we cover the material, so you’re prepared to ask questions and discuss the material.
 
-Other than the textbook, all material for the class will be distributed and managed online using Canvas or Piazza. Canvas is used for assignments and grading, while Piazza is used for discussion and announcements.
+Other than the textbook, all material for the class will be distributed and managed online using our dicussion forum, Discord. Canvas is used for assignments and grading, while Discord is used for discussion and announcements.
  
-# Academic honesty
-
-Collaboration is a key part of research.  I encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the assignments.  Failure to do so will result in formal disciplinary proceedings.  
-
-I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  
 
 # Assignments and Exams
 
