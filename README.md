@@ -6,7 +6,7 @@
 |Where: | Humanities Lecture Hall |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office (half-)hours: | Monday, 12:45 - 1:15pm (in person; we can walk to class after)|
-|| Friday, 9:30-10am |
+|| Friday, 9:30-10am (in person) |
 || Tuesday, 11am-12pm (remote; we will begin in Discord and can move to zoom)|
 |Prerequisites: | (CSE 12 and CSE 101), OR (CSE 15 and CSE 15L). <b>Importantly,</b> knowledge of C programming language. |
 |Required Text: | Principles of Computer System Design, Saltzer & Kaashoek (ISBN 0123749573)|
