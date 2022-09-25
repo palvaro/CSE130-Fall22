@@ -62,7 +62,7 @@ There will be two in-class midterms, and a final exam during the scheduled slot 
 
 ## Programming assignments
 
-Programming assignments are an important component of this course, since they will give you an opportunity to “learn by doing”. Your assignments must be done on the Ubuntu LINUX 18.04 operating system — that’s where we’re going to grade them. Since few students run Linux natively, we expect that you’ll install a virtual machine on your personal computer to run Ubuntu LINUX 18.04. We’ll cover this in section the first week of class.
+Programming assignments are an important component of this course, since they will give you an opportunity to “learn by doing”. Your assignments must be done on the Ubuntu LINUX 20.04 operating system — that’s where we’re going to grade them. Since few students run Linux natively, we expect that you’ll install a virtual machine on your personal computer to run Ubuntu LINUX 20.04. We’ll cover this in section the first week of class.
 
 Programming assignments will all be done individually, and are expected to adhere to the coding standards document available on Canvas.
 
