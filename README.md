@@ -94,15 +94,15 @@ The material in this class can be complex and difficult, so there are several wa
 
  * Attend classes and lab sections.
  * Read (really read!) the assignments and other course materials.
- * Read and post to the class discussion forum on Piazza
+ * Read and post to the class discussion forum on Discord
  * Meet with the course staff during office hours.
- * Send a private piazza post to the course staff.
+ * Send a private Discord post to the course staff.
  
-You’re encouraged to post general questions to the Piazza forum, and to answer questions others have posted there. Asking things like "how does this concept work?" or "can someone help install Ubuntu LINUX 20.04 on VirtualBox?" are fine. Questions such as "can someone post sample code for Assignment 2" or "why doesn’t the attached code work?" are not acceptable, and should be asked during office hours (preferable), or via private Piazza messages. Course staff will also read the forum and reply to posted questions.
+You’re encouraged to post general questions to the Discord forum, and to answer questions others have posted there. Asking things like "how does this concept work?" or "can someone help install Ubuntu LINUX 20.04 on VirtualBox?" are fine. Questions such as "can someone post sample code for Assignment 2" or "why doesn’t the attached code work?" are not acceptable, and should be asked during office hours (preferable), or via private Discord messages. Course staff will also read the forum and reply to posted questions.
 
-Office hours are your chance to ask the course staff in-depth questions about the material being covered, programming assignments (including debugging help), or anything else about computer system design or other general computer science issues you want to discuss. Many students find that discussions in office hours are highly informative and interesting, and it usually helps faculty members write you better recommendations for jobs and graduate school. If you can’t attend office hours, arrange a meeting in advance by using a private Piazza message
+Office hours are your chance to ask the course staff in-depth questions about the material being covered, programming assignments (including debugging help), or anything else about computer system design or other general computer science issues you want to discuss. Many students find that discussions in office hours are highly informative and interesting, and it usually helps faculty members write you better recommendations for jobs and graduate school. If you can’t attend office hours, arrange a meeting in advance by using a private Discord message
 
-Private Piazza questions will typically get a response by the end of the next business day.  Public ones will probably get answered sooner, since they have hundreds of eyes on them!  Please do not email the course staff directly unless asked -- this way we can keep all communication related to the class in one place and avoid overlooking your messages.
+Private Discord questions will typically get a response by the end of the next business day.  Public ones will probably get answered sooner, since they have hundreds of eyes on them!  Please do not email the course staff directly unless asked -- this way we can keep all communication related to the class in one place and avoid overlooking your messages.
 
 
 # Academic Integrity 
