@@ -1,4 +1,4 @@
-# CMPS130 Fall 2022
+# CSE130 Fall 2022
 ## Principles of Computer System Design
 | key | value | 
 |-----|-------|
